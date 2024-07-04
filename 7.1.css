@@ -1,0 +1,22 @@
+#meme{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    z-index: 1
+}
+
+#Start, #Stop {
+    position: relative;
+    z-index: 10;
+}
+body{
+    background-color: darkolivegreen;
+
+}
+h1{
+    color: black;
+}
+button{
+    color: darkblue;
+    border: 0lh;
+}
